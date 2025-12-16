@@ -1,0 +1,5 @@
+{
+  "name": "Remnant",
+  "description": "A private, offline-first relationship archive. Securely reflect on your past with encrypted local storage and optional AI insights.",
+  "requestFramePermissions": []
+}
